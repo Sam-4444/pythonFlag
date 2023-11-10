@@ -1,0 +1,11 @@
+python = "Python"
+x = 0
+for i in python:
+    x += 1
+    print(python[0:x])
+
+for i in python:
+    x -= 1
+    print(python[0:x])
+
+
